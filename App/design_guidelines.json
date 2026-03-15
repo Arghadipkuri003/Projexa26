@@ -1,0 +1,130 @@
+{
+  "project_name": "Vision-Based Smart Classroom Environment Monitoring System",
+  "design_philosophy": {
+    "theme": "The Clinical Control Room",
+    "description": "A high-precision, data-dense interface inspired by airport control towers and medical imaging software. It prioritizes clarity, rapid scanning, and objective truth. It avoids decorative fluff in favor of functional density and high-contrast status indicators.",
+    "archetype": "Archetype 4: Swiss & High-Contrast (Authority, Clarity, Truth)",
+    "vibe": "Objective, rigid, functional, trustworthy."
+  },
+  "typography": {
+    "font_family": {
+      "headings": "Manrope, sans-serif",
+      "body": "Inter, sans-serif",
+      "mono": "JetBrains Mono, monospace"
+    },
+    "usage_rules": {
+      "headings": "Use Manrope for all section titles and card headers. Weight: 600 or 700. Tracking: tight.",
+      "body": "Use Inter for all standard text. Weight: 400 or 500. Leading: relaxed.",
+      "data": "Use JetBrains Mono for ALL numerical data (occupancy counts, percentages, timestamps, confidence scores). This distinguishes 'data' from 'content'.",
+      "labels": "Uppercase, tracking-widest, text-xs, font-bold (Manrope)."
+    }
+  },
+  "colors": {
+    "palette": {
+      "primary": {
+        "light": "#2563EB",
+        "dark": "#3B82F6",
+        "name": "Vision Blue"
+      },
+      "background": {
+        "light": "#F8F9FA",
+        "dark": "#09090B"
+      },
+      "surface": {
+        "light": "#FFFFFF",
+        "dark": "#18181B"
+      },
+      "status": {
+        "success": {
+          "color": "#10B981",
+          "meaning": "Clean / Optimal Lighting / Low Occupancy"
+        },
+        "warning": {
+          "color": "#F59E0B",
+          "meaning": "Moderate / Maintenance Needed"
+        },
+        "danger": {
+          "color": "#EF4444",
+          "meaning": "Dirty / Overcrowded / Dark"
+        },
+        "neutral": {
+          "color": "#64748B",
+          "meaning": "Offline / No Data"
+        }
+      }
+    },
+    "rules": "Use white backgrounds for the main dashboard in light mode to maintain a 'clinical' feel. In dark mode, use Zinc-950, never pure black. Status colors must be used sparingly as indicators (dots, borders, badges), not as full backgrounds."
+  },
+  "visual_enhancers": {
+    "viewfinder_corners": "Add SVG 'L' shaped brackets to the corners of classroom image containers to simulate a camera viewfinder.",
+    "scan_lines": "Use a subtle vertical scanning line animation (CSS gradient moving top to bottom) on 'Live' video feeds.",
+    "glassmorphism": "Use 'Crystal Glass' style for the sidebar navigation and floating action bars. Light mode: bg-white/80 backdrop-blur-md. Dark mode: bg-zinc-900/80 backdrop-blur-md.",
+    "borders": "Use 'Grid Borders' style. Tables and grids should have subtle 1px borders (zinc-200/zinc-800) to separate data points without clutter.",
+    "shadows": "Minimal shadows. Use 'shadow-sm' generally. Use 'shadow-md' only for floating elements."
+  },
+  "layout_strategy": {
+    "dashboard_grid": "Mode B: High Density Grid. Use a strict bento grid (grid-cols-1 md:grid-cols-3 lg:grid-cols-4). Gap: gap-4 or gap-6. Every pixel must be utilized.",
+    "containers": "Cardless or 'Technical Card' style. Rectangular with very slight rounding (rounded-md or rounded-sm). No large rounded corners (rounded-xl is forbidden).",
+    "spacing": "Dense. Use p-4 for standard cards. Use p-6 for major sections. Avoid excessive whitespace in data views; keep related metrics close."
+  },
+  "components": {
+    "buttons": {
+      "style": "Sharp or slightly rounded (rounded-md).",
+      "primary": "bg-primary text-white hover:bg-primary/90 shadow-sm",
+      "secondary": "bg-secondary text-secondary-foreground hover:bg-secondary/80 border border-input",
+      "ghost": "hover:bg-accent hover:text-accent-foreground"
+    },
+    "cards": {
+      "path": "/app/frontend/src/components/ui/card.tsx",
+      "modification": "Remove excessive shadow. Add a 'data-status' border logic (e.g., border-l-4 border-l-red-500 for alerts)."
+    },
+    "charts": {
+      "library": "Recharts (via Shadcn Charts)",
+      "style": "Minimalist. Hide grid lines where possible. Use thin strokes. Tooltips must be high-contrast."
+    },
+    "vision_overlay": {
+      "description": "A custom component to overlay bounding boxes and confidence scores on images.",
+      "style": "Border: 2px solid [StatusColor]. Label: Background [StatusColor] Text White text-xs."
+    }
+  },
+  "motion": {
+    "transitions": "Fast and precise. duration-200 ease-out.",
+    "hover": "Subtle scale (scale-[1.01]) or border highlight. No massive jumps.",
+    "loading": "Skeleton loaders (Shadcn) + localized spinners for data fetching."
+  },
+  "images": {
+    "classroom_empty": {
+      "url": "https://images.unsplash.com/photo-1758413350815-7b06dbbfb9a7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NzZ8MHwxfHNlYXJjaHwyfHxtb2Rlcm4lMjB1bml2ZXJzaXR5JTIwY2xhc3Nyb29tJTIwaW50ZXJpb3IlMjBicmlnaHR8ZW58MHx8fHwxNzcxNTk2Mjg5fDA&ixlib=rb-4.1.0&q=85",
+      "description": "Empty modern office/classroom space."
+    },
+    "classroom_occupied": {
+      "url": "https://images.unsplash.com/photo-1758270705482-cee87ea98738?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1NTZ8MHwxfHNlYXJjaHwzfHx1bml2ZXJzaXR5JTIwc3R1ZGVudHMlMjBzdHVkeWluZyUyMGluJTIwY2xhc3Nyb29tfGVufDB8fHx8MTc3MTU5NjI5MHww&ixlib=rb-4.1.0&q=85",
+      "description": "Students occupied in a lecture hall."
+    },
+    "classroom_messy": {
+      "url": "https://images.pexels.com/photos/6913190/pexels-photo-6913190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "Messy floor with crumpled paper (Cleanliness Alert)."
+    },
+    "building_exterior": {
+      "url": "https://images.unsplash.com/photo-1769021045407-d49e26aebcba?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjY2NzN8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjB1bml2ZXJzaXR5JTIwYnVpbGRpbmclMjBleHRlcmlvciUyMGFyY2hpdGVjdHVyZXxlbnwwfHx8fDE3NzE1OTYyOTJ8MA&ixlib=rb-4.1.0&q=85",
+      "description": "Modern university building exterior."
+    }
+  },
+  "instructions_to_main_agent": [
+    "Implement a 'Dashboard Layout' with a persistent sidebar.",
+    "The Home page should be the 'Overview Dashboard' summarizing all classrooms.",
+    "Use 'Recharts' for: Occupancy Trends (Line Chart), Cleanliness Scores (Bar Chart), Lighting Levels (Area Chart).",
+    "Create a 'CameraFeed' component that takes an image URL and draws SVG overlays (bounding boxes) to simulate CV detection.",
+    "Use 'Sonner' for real-time alerts (e.g., 'Room 302 needs cleaning').",
+    "Ensure the 'Upload' page allows drag-and-drop analysis simulation.",
+    "Use the provided image URLs to mock the camera feeds.",
+    "The 'Settings' page should allow threshold configuration for alerts."
+  ],
+  "universal_guidelines": [
+    "Do not use gradients for backgrounds. Keep surfaces flat and clean.",
+    "Use 'data-testid' for all interactive elements.",
+    "Ensure text contrast meets WCAG AA standards (4.5:1).",
+    "Do not use generic 'Inter' for headings; use 'Manrope'.",
+    "Make sure the 'Analysis Results' are visually distinct from the rest of the UI (e.g., use a dark panel for the image analysis result even in light mode)."
+  ]
+}
