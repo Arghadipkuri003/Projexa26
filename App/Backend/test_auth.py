@@ -357,6 +357,5 @@ class TestExistingAdminUser:
         assert data["user"]["role"] == "admin"
         print(f"Admin login successful: {data['user']['email']}")
 
-
 if __name__ == "__main__":
     pytest.main([__file__, "-v", "--tb=short"])
