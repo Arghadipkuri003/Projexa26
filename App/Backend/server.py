@@ -1766,3 +1766,4 @@ async def startup_event():
 async def shutdown_db_client():
     client.close()
     scheduler.shutdown()
+    
