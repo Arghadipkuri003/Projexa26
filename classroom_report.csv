@@ -1,0 +1,190 @@
+room_name,occupancy_count,cleanliness_score,lighting_condition,raw_analysis,timestamp
+Room 4,16,59,Good,Historical test data,2026-02-19 17:55:08.552000
+Room 5,10,61,Poor,Historical test data,2026-02-19 16:47:08.552000
+Room 2,37,72,Poor,Historical test data,2026-02-19 10:46:08.552000
+Room 3,24,48,Good,Historical test data,2026-02-19 10:06:08.552000
+Room 2,27,48,Moderate,Historical test data,2026-02-19 08:19:08.552000
+Room 2,33,89,Poor,Historical test data,2026-02-18 17:42:08.552000
+Room 3,10,68,Moderate,Historical test data,2026-02-18 15:55:08.552000
+Room 2,7,67,Good,Historical test data,2026-02-18 13:04:08.552000
+Room 3,36,62,Moderate,Historical test data,2026-02-18 08:36:08.552000
+Room 1,14,77,Good,Historical test data,2026-02-17 13:30:08.552000
+Room 2,12,87,Good,Historical test data,2026-02-17 11:09:08.552000
+Room 1,20,58,Poor,Historical test data,2026-02-17 09:58:08.552000
+Room 2,39,81,Moderate,Historical test data,2026-02-16 17:19:08.552000
+Room 3,39,92,Good,Historical test data,2026-02-16 16:59:08.552000
+Room 5,10,57,Moderate,Historical test data,2026-02-16 14:20:08.552000
+Room 5,5,93,Good,Historical test data,2026-02-16 13:57:08.552000
+Room 3,31,51,Moderate,Historical test data,2026-02-15 13:11:08.552000
+Room 5,15,75,Good,Historical test data,2026-02-15 08:51:08.552000
+Room 4,26,55,Good,Historical test data,2026-02-15 08:48:08.552000
+Room 2,13,78,Poor,Historical test data,2026-02-15 08:33:08.552000
+Room 1,6,43,Poor,Historical test data,2026-02-15 08:20:08.552000
+Room 5,7,56,Moderate,Historical test data,2026-02-14 17:40:08.552000
+Room 2,30,41,Moderate,Historical test data,2026-02-14 15:53:08.552000
+Room 4,24,63,Moderate,Historical test data,2026-02-14 15:33:08.552000
+Room 4,7,90,Poor,Historical test data,2026-02-14 10:56:08.552000
+Room 4,29,79,Moderate,Historical test data,2026-02-13 17:10:08.552000
+Room 5,9,56,Poor,Historical test data,2026-02-13 15:17:08.552000
+Room 2,35,76,Poor,Historical test data,2026-02-13 14:58:08.552000
+Room 1,31,42,Poor,Historical test data,2026-02-13 10:01:08.552000
+Room 1,6,65,Poor,Historical test data,2026-02-12 17:04:08.552000
+Room 1,33,87,Good,Historical test data,2026-02-12 12:16:08.552000
+Room 2,26,92,Good,Historical test data,2026-02-12 09:02:08.552000
+Room 5,27,55,Good,Historical test data,2026-02-11 17:18:08.552000
+Room 2,40,71,Good,Historical test data,2026-02-11 15:43:08.552000
+Room 1,40,82,Moderate,Historical test data,2026-02-11 15:26:08.552000
+Room 5,19,49,Poor,Historical test data,2026-02-11 12:16:08.552000
+Room 4,19,69,Moderate,Historical test data,2026-02-11 11:17:08.552000
+Room 1,39,87,Moderate,Historical test data,2026-02-10 13:54:08.552000
+Room 2,13,82,Good,Historical test data,2026-02-10 12:51:08.552000
+Room 4,40,42,Moderate,Historical test data,2026-02-10 12:26:08.552000
+Room 4,25,53,Moderate,Historical test data,2026-02-10 09:58:08.552000
+Room 5,7,84,Poor,Historical test data,2026-02-10 08:39:08.552000
+Room 2,40,89,Poor,Historical test data,2026-02-09 13:39:08.552000
+Room 5,28,58,Moderate,Historical test data,2026-02-09 13:14:08.552000
+Room 5,8,94,Poor,Historical test data,2026-02-09 11:52:08.552000
+Room 5,26,89,Moderate,Historical test data,2026-02-09 11:10:08.552000
+Room 3,9,86,Moderate,Historical test data,2026-02-08 11:04:08.552000
+Room 3,28,41,Good,Historical test data,2026-02-08 08:27:08.552000
+Room 3,6,40,Good,Historical test data,2026-02-07 17:34:08.552000
+Room 1,22,42,Good,Historical test data,2026-02-07 17:14:08.552000
+Room 2,25,83,Moderate,Historical test data,2026-02-07 12:33:08.552000
+Room 3,19,78,Good,Historical test data,2026-02-07 11:40:08.552000
+Room 1,28,43,Good,Historical test data,2026-02-06 16:13:08.552000
+Room 2,14,84,Good,Historical test data,2026-02-06 11:42:08.552000
+Room 3,29,47,Moderate,Historical test data,2026-02-06 08:24:08.552000
+Room 2,39,46,Good,Historical test data,2026-02-05 16:55:08.552000
+Room 4,8,92,Moderate,Historical test data,2026-02-05 16:46:08.552000
+Room 5,22,66,Poor,Historical test data,2026-02-05 15:06:08.552000
+Room 4,6,48,Good,Historical test data,2026-02-05 13:30:08.552000
+Room 2,21,62,Moderate,Historical test data,2026-02-05 08:06:08.552000
+Room 3,16,84,Poor,Historical test data,2026-02-04 17:53:08.552000
+Room 2,31,88,Poor,Historical test data,2026-02-04 11:42:08.552000
+Room 2,9,56,Moderate,Historical test data,2026-02-04 11:21:08.552000
+Room 5,5,67,Moderate,Historical test data,2026-02-04 08:52:08.552000
+Room 1,9,53,Poor,Historical test data,2026-02-03 15:51:08.552000
+Room 1,5,94,Moderate,Historical test data,2026-02-03 13:51:08.552000
+Room 2,37,42,Good,Historical test data,2026-02-03 09:41:08.552000
+Room 4,37,52,Poor,Historical test data,2026-02-03 09:02:08.552000
+Room 2,10,89,Poor,Historical test data,2026-02-02 17:21:08.552000
+Room 2,21,75,Moderate,Historical test data,2026-02-02 15:42:08.552000
+Room 5,31,71,Good,Historical test data,2026-02-02 12:16:08.552000
+Room 4,40,51,Moderate,Historical test data,2026-02-02 10:26:08.552000
+Room 2,19,64,Poor,Historical test data,2026-02-02 09:44:08.552000
+Room 4,23,84,Poor,Historical test data,2026-02-01 16:23:08.552000
+Room 4,26,45,Good,Historical test data,2026-02-01 11:26:08.552000
+Room 3,24,90,Poor,Historical test data,2026-02-01 10:12:08.552000
+Room 4,27,45,Good,Historical test data,2026-01-31 17:22:08.552000
+Room 2,21,94,Poor,Historical test data,2026-01-31 17:15:08.552000
+Room 1,30,73,Good,Historical test data,2026-01-31 17:06:08.552000
+Room 4,21,41,Moderate,Historical test data,2026-01-30 17:34:08.552000
+Room 5,17,67,Poor,Historical test data,2026-01-30 13:44:08.552000
+Room 3,36,40,Moderate,Historical test data,2026-01-30 11:42:08.552000
+Room 1,16,63,Moderate,Historical test data,2026-01-29 17:45:08.552000
+Room 2,40,80,Moderate,Historical test data,2026-01-29 09:15:08.552000
+Room 4,11,85,Good,Historical test data,2026-01-29 08:16:08.552000
+Room 1,36,66,Poor,Historical test data,2026-01-28 17:47:08.552000
+Room 2,26,95,Good,Historical test data,2026-01-28 14:52:08.552000
+Room 2,38,87,Good,Historical test data,2026-01-28 11:54:08.552000
+Room 5,14,84,Good,Historical test data,2026-01-27 12:28:08.552000
+Room 2,22,54,Poor,Historical test data,2026-01-27 11:38:08.552000
+Room 2,5,61,Good,Historical test data,2026-01-27 09:23:08.552000
+Room 5,16,93,Moderate,Historical test data,2026-01-27 08:28:08.552000
+Room 4,22,66,Good,Historical test data,2026-01-26 16:27:08.552000
+Room 4,29,90,Moderate,Historical test data,2026-01-26 16:09:08.552000
+Room 2,37,79,Good,Historical test data,2026-01-26 16:02:08.552000
+Room 1,17,56,Moderate,Historical test data,2026-01-26 14:15:08.552000
+Room 2,6,76,Good,Historical test data,2026-01-26 13:23:08.552000
+Room 1,21,71,Moderate,Historical test data,2026-01-25 17:59:08.552000
+Room 1,39,47,Poor,Historical test data,2026-01-25 17:23:08.552000
+Room 2,21,55,Good,Historical test data,2026-01-25 17:00:08.552000
+Room 1,12,41,Poor,Historical test data,2026-01-24 16:44:08.552000
+Room 1,14,72,Poor,Historical test data,2026-01-24 10:08:08.552000
+Room 4,29,71,Moderate,Historical test data,2026-01-24 08:07:08.552000
+Room 3,38,63,Moderate,Historical test data,2026-01-23 12:12:08.552000
+Room 5,30,80,Poor,Historical test data,2026-01-23 09:17:08.552000
+Room 3,30,67,Poor,Historical test data,2026-01-23 08:45:08.552000
+Room 5,7,41,Good,Historical test data,2026-01-22 16:28:08.552000
+Room 1,5,54,Poor,Historical test data,2026-01-22 15:11:08.552000
+Room 5,10,46,Moderate,Historical test data,2026-01-22 13:30:08.552000
+Room 2,32,81,Good,Historical test data,2026-01-22 11:23:08.552000
+Room 5,38,75,Moderate,Historical test data,2026-01-22 09:01:08.552000
+Room 2,39,89,Poor,Historical test data,2026-01-21 17:37:08.552000
+Room 5,25,54,Moderate,Historical test data,2026-01-21 16:07:08.552000
+Room 1,11,72,Good,Historical test data,2026-01-21 10:55:08.552000
+Room 3,36,86,Good,Historical test data,2026-01-21 09:46:08.552000
+Room 1,84,42,Good,"The room is fully occupied with many students seated closely together and working at desks. Desks are heavily cluttered with tall stacks of books and papers, making the space look disorganized, though there is little obvious loose trash on the floor. Large windows provide strong ambient daylight, giving overall good lighting across the room.",2026-03-25T14:28:28.692582+00:00
+Room 1,0,62,Good,"The classroom is empty, with several desks and chairs scattered and some items (books/papers) lying on the floor. Multiple backpacks and supplies are left out, making the room look somewhat disorganized though not heavily dirty. Lighting appears bright and even, but tidying the furniture and picking up the floor items would improve cleanliness and safety.",2026-03-25T13:22:08.622145+00:00
+Room 1,0,92,Good,"The room appears to be an empty lecture hall with rows of desks and a large projection screen at the front. Floors and seating areas look tidy with no visible trash or clutter, and furniture is well-organized. Lighting is bright and even from overhead fixtures and side windows, though the front wall area is slightly darker than the seating area.",2026-03-25T13:21:52.142560+00:00
+Room 1,38,82,Good,"The classroom is occupied with students seated across multiple bench rows, with a few bags placed on the desks. Floors and desks appear generally clean and well-maintained with no obvious trash or spills. Lighting is bright and adequate (likely from the right side), though there are some mild shadows and slightly uneven illumination toward the back.",2026-03-19T09:59:31.485716+00:00
+Room 1,0,55,Good,"The room appears empty with multiple desks and chairs, and several books and papers scattered on the floor and tabletops. Backpacks and supplies are left out, suggesting moderate disorganization but no obvious trash piles. Lighting is bright and fairly even, likely from overhead lights and/or windows, making the space well-lit.",2026-03-19T09:59:17.303741+00:00
+Room 1,0,92,Good,"The room appears empty with rows of desks and chairs neatly aligned and no visible trash or clutter. Surfaces and floors look well maintained, contributing to a tidy overall appearance. Lighting is bright and even from ceiling fixtures and side windows, though the front presentation area is slightly less illuminated than the seating area.",2026-03-19T09:59:03.958541+00:00
+Room 1,0,58,Good,"The room is unoccupied. Several books and papers are scattered on the floor and desks, and chairs are pulled out, indicating moderate disorganization. Lighting appears bright and even across the room, but tidying up the floor items and arranging furniture would improve cleanliness.",2026-03-19T09:34:58.915011+00:00
+Room 1,36,83,Good,"The classroom is occupied with students seated across multiple bench rows, and the furniture appears orderly and properly arranged. Floors and desks look generally clean with minimal visible debris, though there are a few personal items (bags/books) on desks. Lighting is bright and even overall, with slightly stronger illumination from the right side but no major dark areas.",2026-03-19T09:33:22.744229+00:00
+Room 1,35,78,Good,"The classroom is occupied with many students seated across multiple rows of benches. The floor and desks appear mostly clean and well-organized, with only a few personal items/bags visible on desks and no obvious trash on the floor. Lighting is generally bright and even, though slightly stronger from the right side creating mild shadows.",2026-03-19T09:24:16.596729+00:00
+Room 1,13,92,Excellent,"The classroom is occupied with students seated at individual desks taking what appears to be a test, with one adult standing near the whiteboard. Desks and floors look tidy with no visible trash or clutter, and furniture is well organized in rows. The room is brightly lit by ceiling lights and strong natural light from the windows.",2026-03-19T09:21:35.842159+00:00
+Room 1,0,72,Good,"The room is empty with rows of desks and chairs arranged neatly and a whiteboard at the front. Floors and furniture appear generally clean with no visible trash, but there are noticeable dark stains/discoloration on the ceiling that reduce the overall cleanliness impression. Lighting is adequate from overhead fixtures, though the space feels slightly dim and flat due to limited natural light.",2026-03-19T09:21:28.615120+00:00
+Room 1,0,72,Good,"The classroom is empty with desks and chairs arranged in orderly rows and the floor appears mostly clean. The ceiling shows significant dark staining/discoloration that detracts from overall cleanliness and suggests possible moisture damage. Lighting from overhead fixtures provides adequate illumination, though addressing the ceiling condition would improve the room's appearance.",2026-03-19T09:20:17.471434+00:00
+Room 1,0,92,Good,"The classroom/lecture hall is empty, with rows of desks and chairs neatly aligned toward a front projection screen. Floors and surfaces appear tidy with no visible trash or clutter. Lighting is bright and even from overhead fixtures and side windows, providing good visibility throughout the room.",2026-03-15T12:15:51.386928+00:00
+Room 1,38,82,Good,"The classroom is occupied with many students seated across multiple rows of wooden bench desks. Floors and desks appear generally clean and orderly with no obvious trash, though there are some bags/books on the desks. Lighting is bright and fairly even, with slight shadowing toward the left side but overall good visibility.",2026-03-15T12:14:23.287379+00:00
+Room 1,35,78,Good,"The room is occupied with many students seated across several rows of wooden benches/desks. The floor and desks appear generally tidy with little visible trash, though there are a few personal items/bags on the front desks. Lighting is bright and mostly even, with some glare/highlights coming from the right side of the room.",2026-03-15T09:44:48.175111+00:00
+Room 2,38,82,Good,"The classroom is occupied with many students seated across multiple rows of wooden benches. The floor and desks appear generally tidy with minimal clutter, though a few personal items/bags are on desks. Lighting is bright and adequate overall, with slightly stronger illumination coming from the right side.",2026-03-15T09:44:45.676867+00:00
+Room 2,34,82,Good,"The classroom is occupied with students seated across multiple wooden bench desks. The floor and desks appear generally clean and well-organized, with only a few personal items (bags/books) visible and no obvious trash. Lighting is bright and mostly even, though the right side appears slightly more illuminated, suggesting light coming from that direction.",2026-03-15T09:44:43.036998+00:00
+Room 1,30,85,Good,"The classroom is occupied with many students seated across multiple bench rows. The floor and desks appear generally clean and well-organized, with only a few personal items/bags on benches and no visible trash. Lighting is bright and mostly even, likely from overhead lights and/or windows, with mild shadows toward the back.",2026-03-15T09:44:18.931237+00:00
+Room 1,33,85,Good,"The classroom is occupied with many students seated across multiple rows of wooden bench desks. The floor and seating areas appear generally clean and organized, with only a few personal items/bags visible on desks. Lighting is bright and fairly even, though slightly stronger from the right side of the room.",2026-03-15T09:43:47.793375+00:00
+Room 1,39,82,Good,"The classroom is occupied with many students seated across multiple bench rows. The floor and desks appear generally tidy with minimal visible litter, though a few personal bags/items are on the benches. Lighting is strong and mostly even, likely from the right side, with some mild shadowing toward the left/back.",2026-03-15T09:43:03.212742+00:00
+TEST_Batch_Room2_1f50bf29,0,88,Good,"The room is empty with rows of classroom chairs/desks and several book-filled cabinets along the walls. Floors and surfaces appear mostly clean with no visible trash, though some chairs and desk edges show minor wear and small marks. Lighting is generally bright and even, likely from daylight through windows, with only mild shadowing in some areas.",2026-03-15T07:05:18.276694+00:00
+TEST_Batch_Room1_74343119,0,84,Good,"The room is unoccupied, with multiple rows of desk-chairs arranged fairly neatly and several glass-front book cabinets along the walls. Floors and desks appear mostly clean with minimal visible debris, though there are some minor scuffs/wear on desk edges and chairs. Lighting is adequate and evenly illuminates most of the room, likely from ambient indoor light and window reflections.",2026-03-15T07:05:15.053942+00:00
+TEST_NoAuth,0,86,Good,"The room is empty with rows of student chairs/desks arranged in an orderly layout and multiple book cabinets along the wall. Floors and surfaces appear mostly clean with no visible trash, though there are minor signs of wear/scuffs on some desk edges and chairs. Lighting is bright and even overall, likely from natural light through the windows.",2026-03-15T07:05:11.026825+00:00
+TEST_Lighting_Enum,87,92,Excellent,"This is a large lecture hall with many students seated across the tiered rows and a presenter at the front near the projection screen. The room appears very tidy with organized seating and no visible trash or clutter on the floors or aisles. Lighting is bright and even across the room, making the space well-illuminated for a lecture.",2026-03-15T07:05:05.954163+00:00
+TEST_Cleanliness_Range,0,88,Good,"The room is empty with rows of chair-desks and multiple book cabinets along the walls. Floors and desks appear generally clean and free of visible trash, though there are minor scuffs/wear on some desk edges and chair surfaces. Lighting is adequate and fairly even, likely from daylight through windows, with no major dark areas.",2026-03-15T07:05:02.369234+00:00
+TEST_Persist_909b36cc,0,86,Good,"The room appears empty with multiple student desks/chairs arranged in rows and several book cabinets along the wall. Floors and surfaces look generally clean and free of visible trash, though some desks and chair seats show minor wear and small marks. Lighting is bright and fairly even, likely from windows, with only slight shadowing in some areas.",2026-03-15T07:04:58.636670+00:00
+TEST_Observation_Check,0,88,Good,"The room is empty with rows of desk-chairs arranged fairly neatly and multiple book cabinets along the wall. Floors and surfaces appear clean with no visible trash, though some desks/chairs show minor scuffs and wear. Lighting is bright and even overall, likely from daylight through windows, with only slight shadowing in the back areas.",2026-03-15T07:04:54.318789+00:00
+TEST_Lecture_Hall,73,92,Good,"The lecture hall is occupied with many seated students and one presenter at the front near the projection screen. The room appears very tidy with organized seating and no visible trash or clutter on the floor. Lighting is bright and even across most of the hall, with only minor shadowing in the back rows.",2026-03-15T07:04:50.022797+00:00
+TEST_Empty_Classroom,0,88,Good,"The room is empty, with rows of classroom chairs/desks arranged neatly and several book cabinets along the walls. The floor appears clean with no visible trash, though some desktops and chair surfaces show minor wear and small marks. Lighting is adequate and fairly even, likely from windows, with no major dark areas.",2026-03-15T07:04:45.074878+00:00
+TEST_Batch_Room2_87d601f8,0,85,Good,"The room appears empty with multiple rows of desk-chairs arranged fairly neatly and several glass-front book cabinets along the walls. Floors and surfaces look mostly clean with no visible trash, though some furniture shows minor wear and light dust/marks. Lighting is bright and even overall, likely from daylight, with only mild shadowing in a few areas.",2026-03-15T07:03:40.680849+00:00
+TEST_Batch_Room1_5efa4b8e,0,88,Good,"The room appears empty, with rows of student desks/chairs arranged in an orderly manner and book cabinets along the wall. Floors and surfaces look mostly clean with no visible trash, though a few chairs/desks show minor wear and small marks. Lighting is bright and fairly even, likely from daylight through the windows, providing good visibility across the room.",2026-03-15T07:03:37.736504+00:00
+TEST_NoAuth,0,86,Good,"The room is empty, with rows of chair-desks arranged fairly neatly and book cabinets along the wall. Floors appear clean with no visible trash, though some desk surfaces and chair backs show minor wear/scuffs. Lighting is generally bright and even, likely from windows, with only slight shadowing in a few areas.",2026-03-15T07:03:33.848339+00:00
+TEST_Lighting_Enum,72,90,Good,"The lecture hall is occupied with many students seated across the tiered rows and one presenter at the front near the podium. Floors and seating areas appear tidy with no obvious trash or clutter, and furniture is well organized. Lighting is bright and even overall, though the projection screen area is naturally darker due to the displayed slide.",2026-03-15T07:03:30.117627+00:00
+TEST_Cleanliness_Range,0,86,Good,"The room is empty with rows of desk-chairs arranged fairly neatly, and book cabinets lining the walls. Floors and surfaces look generally clean with no visible trash, though there are minor scuffs/wear on some desktops and chairs. Lighting appears adequate and even, likely from daylight through windows, with no major dark areas.",2026-03-15T07:03:26.614165+00:00
+TEST_Persist_06e87de9,0,86,Good,"The room appears empty, with rows of desk-chairs arranged in an orderly layout and book cabinets along the walls. Floors and surfaces look generally clean with no visible litter, though there are minor scuffs/wear on some desk edges and chairs. Lighting is bright and fairly even, likely from windows/openings, providing good visibility across the room.",2026-03-15T07:03:22.684822+00:00
+TEST_Observation_Check,0,88,Good,"The room is empty with multiple desk-chair units arranged in rows and several book cabinets along the walls. Floors and desks look generally clean and free of visible trash, though there are minor signs of wear and small marks on some surfaces. Lighting appears adequate and fairly even, likely from daylight through windows, with no major dark areas.",2026-03-15T07:03:18.435520+00:00
+TEST_Lecture_Hall,84,92,Excellent,"The room is a large lecture hall with many students seated and a presenter at the front near a projection screen. Floors, desks, and aisles look tidy with no visible trash or clutter, and seating is well organized. Lighting is bright and evenly distributed across the room, with good visibility of seating and the front area.",2026-03-15T07:03:14.103853+00:00
+TEST_Empty_Classroom,0,88,Good,"The room appears empty, with rows of student desks/chairs and multiple book cabinets along the walls. Floors and desks look generally clean and organized, with only minor signs of wear and a few small marks on surfaces. Lighting is adequate and fairly even, likely from daylight through windows, with no major dark areas.",2026-03-15T07:03:10.175883+00:00
+TEST_Batch_Room2_33303134,0,86,Good,"The room appears empty with multiple desk-chair units arranged in rows and several book-filled cabinets along the walls. Floors and surfaces look generally clean and free of trash, though there are minor scuffs/wear visible on some desk edges and chairs. Lighting is bright and even across most of the room, likely from daylight through the windows.",2026-03-15T07:01:01.594084+00:00
+TEST_Batch_Room1_6ec45776,0,84,Good,"The room is empty, with rows of chair-desks arranged in an orderly manner and multiple book cabinets along the walls. Floors and desks appear generally clean with no visible trash, though several desk edges look worn and there may be minor dust on some surfaces. Lighting is bright and fairly even, likely from natural light through windows.",2026-03-15T07:00:58.747405+00:00
+TEST_NoAuth,0,82,Good,"The room is unoccupied with rows of student chairs/desks arranged in an organized layout, and book cabinets along the walls. Floors and desks appear mostly clean with no obvious trash, though there are minor scuffs/wear visible on some desk edges and chair surfaces. Lighting is bright and fairly even, likely from daylight through windows, providing good visibility across the room.",2026-03-15T07:00:53.870203+00:00
+TEST_Lighting_Enum,79,92,Excellent,"The lecture hall is occupied with many seated attendees and one presenter at the front near the podium and projection screen. Floors, seats, and aisles appear tidy with no visible trash or clutter, and furniture is orderly. The room is brightly and evenly lit with strong overhead lighting and no major shadowed areas.",2026-03-15T07:00:49.473035+00:00
+TEST_Cleanliness_Range,0,85,Good,"The room appears empty with rows of student chairs/desks arranged in an orderly layout, and multiple book cabinets along the walls. Floors and desk surfaces look mostly clean with only minor scuffs/wear visible on some desk edges and chair surfaces. Lighting is bright and fairly even, likely from daylight, providing good visibility across the room.",2026-03-15T07:00:46.334486+00:00
+TEST_Persist_2d3a4c47,0,84,Good,"The room is empty, with rows of student chairs/desks arranged fairly neatly and multiple glass-front book cabinets along the walls. Floors and desktops look generally clean with no visible trash, though there are minor scuffs/wear on some desk edges and chairs. Lighting appears bright and adequate, likely from windows, with slight unevenness toward the back areas.",2026-03-15T07:00:42.606891+00:00
+TEST_Observation_Check,0,82,Good,"The room is unoccupied, with rows of chair-desks arranged in an orderly classroom layout and multiple book cabinets along the walls. Floors and surfaces appear generally clean with no obvious trash, though there are minor scuffs/wear on some desk edges and chairs. Lighting is bright and fairly even, likely from daylight through windows, providing good visibility across the room.",2026-03-15T07:00:38.310859+00:00
+TEST_Lecture_Hall,74,92,Excellent,"The lecture hall is occupied with many attendees seated across the tiers, and a presenter is visible at the front near the projection screen. The room appears very tidy with organized seating and no noticeable trash or clutter. Lighting is bright and evenly distributed across the space, making the front stage and seating areas clearly visible.",2026-03-15T07:00:33.930816+00:00
+TEST_Empty_Classroom,0,88,Good,"The room appears empty with rows of classroom chairs/desks and several book-filled cabinets along the wall. Floors and desks look mostly clean and free of visible trash, though some furniture surfaces show minor wear and slight dust. Lighting is bright and fairly even, likely from windows, with only mild shadowing in some areas.",2026-03-15T07:00:30.173499+00:00
+Lecture Hall A,63,90,Good,"This is a large lecture hall with many attendees seated across multiple rows and a presentation screen at the front. The room appears tidy with organized seating and no visible trash or clutter in aisles. Lighting is bright and even overall, though the projection area is naturally dimmer to support screen visibility.",2026-03-15T06:58:50.025225+00:00
+Test Classroom,0,92,Good,"The room appears to be a classroom/library area with rows of desks and chairs and multiple book cabinets along the left wall. No people are visible, and the floor and furniture look tidy with no noticeable trash or clutter. Lighting is bright and even across most of the room, likely from windows, with only minor shadowing in some areas.",2026-03-15T06:58:33.383849+00:00
+Room 1,33,85,Good,"The classroom is filled with students sitting on tiered wooden benches. The floor appears clean, and natural light is visible. Overall, the environment looks organized with students attentive and engaged.",2026-03-13T12:57:27.425028+00:00
+Room 1,30,85,Good,"The classroom is well-occupied with students seated at desks, the area appears clean, and lighting is adequate.",2026-03-13T12:52:04.286826+00:00
+Room 1,36,85,Good,The classroom is full of students seated at desks. The room appears clean and well-organized with sufficient lighting.,2026-03-04T18:20:30.964134+00:00
+101,29,80,Good,The classroom is moderately full with students seated at desks. The room appears clean and well-organized. Lighting is adequate.,2026-03-04T18:20:23.184351+00:00
+101,38,85,Good,Classroom with students seated at desks. Room appears clean and well-organized. Lighting is adequate for visibility.,2026-03-04T18:20:18.205811+00:00
+101,31,85,Good,The classroom is occupied by many students seated in several rows of tiered seating. The room appears clean and well-lit with natural light.,2026-03-04T18:20:14.024930+00:00
+101,28,85,Good,The classroom is filled with students seated in lecture-style desks. The room appears tidy and well-lit.,2026-03-04T18:20:10.384726+00:00
+101,34,85,Good,The classroom is filled with students sitting on tiered wooden benches. The room is well-lit and appears to be clean with organized seating.,2026-03-04T18:20:03.606424+00:00
+Test Room WEBP,0,0,Poor,"The image is solid red, no classroom details visible.",2026-02-20T14:32:15.833156+00:00
+Test Room PNG,0,0,Poor,"The image is completely red, so no classroom details are visible.",2026-02-20T14:32:13.935506+00:00
+Test Room JPEG,0,0,Poor,"Solid red image, no classroom visible.",2026-02-20T14:32:11.624780+00:00
+Test Room B,0,50,Poor,"The image is completely red, making it impossible to discern any details.",2026-02-20T14:32:08.307097+00:00
+Test Room A,0,0,Poor,The image is entirely red with no visible details.,2026-02-20T14:32:06.292749+00:00
+Test Room 101,0,0,Poor,The image is completely red with no visible classroom elements.,2026-02-20T14:32:03.884929+00:00
+Test Room WEBP,0,100,Poor,"The image is completely red, no classroom details visible.",2026-02-20T14:31:33.835576+00:00
+Test Room PNG,0,0,Poor,The image is completely red with no visible classroom details.,2026-02-20T14:31:31.452998+00:00
+Test Room JPEG,0,0,Poor,The image is a solid red color with no visible details.,2026-02-20T14:31:29.496312+00:00
+Test Room B,0,0,Poor,The image is completely red with no visible details.,2026-02-20T14:31:26.276393+00:00
+Test Room A,0,0,Poor,The image is completely red with no visible classroom details.,2026-02-20T14:31:24.004763+00:00
+Test Room 101,0,0,Poor,The image is solid red with no visible classroom details.,2026-02-20T14:31:21.746971+00:00
+Classroom A-301,1,80,Good,"The image shows a red circle on top of a brown rectangle, resembling a person at a desk, with two additional empty desks.",2026-02-20T14:12:13.544501+00:00
+Test Room WEBP,0,0,Poor,The image is completely red and no classroom or objects are visible.,2026-02-20T14:11:15.341885+00:00
+Test Room PNG,0,0,Poor,The image is entirely red with no visible details or features.,2026-02-20T14:11:12.749303+00:00
+Test Room JPEG,0,0,Poor,The image is solid red without any visible details of a classroom.,2026-02-20T14:11:09.179885+00:00
+Test Room 101,0,0,Poor,The image is completely red with no visible details.,2026-02-20T14:11:06.850270+00:00
